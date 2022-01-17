@@ -1,0 +1,31 @@
+#AboutMe iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.def{
+    border:1px solid gray;
+    
+}
+.def img{
+    width:100%;
+    
+}
+.def hr{
+    width:250px;
+}
+.def h5,.def p{
+    margin-left:20px;
+}
